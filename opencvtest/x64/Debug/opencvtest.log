@@ -1,0 +1,55 @@
+﻿  main.cpp
+E:\vs\opencvtest\Matrix.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\face_binary_cls.cpp(23,5731): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\face_binary_cls.cpp(24,213): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\face_binary_cls.cpp(26,65599): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\face_binary_cls.cpp(27,418): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\face_binary_cls.cpp(29,135682): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\face_binary_cls.cpp(30,438): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\face_binary_cls.cpp(32,57330): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\conv.cpp(25,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\conv.cpp(25,58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\pool.cpp(7,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\pool.cpp(7,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\connection.cpp(33,25): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+E:\vs\opencvtest\connection.cpp(33,25): warning C4244:         with
+E:\vs\opencvtest\connection.cpp(33,25): warning C4244:         [
+E:\vs\opencvtest\connection.cpp(33,25): warning C4244:             _Ty=float
+E:\vs\opencvtest\connection.cpp(33,25): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\connection.cpp(38,25): warning C4244: “+=”: 从“double”转换到“_Ty”，可能丢失数据
+E:\vs\opencvtest\connection.cpp(38,25): warning C4244:         with
+E:\vs\opencvtest\connection.cpp(38,25): warning C4244:         [
+E:\vs\opencvtest\connection.cpp(38,25): warning C4244:             _Ty=float
+E:\vs\opencvtest\connection.cpp(38,25): warning C4244:         ]
+  (编译源文件“main.cpp”)
+  
+E:\vs\opencvtest\connection.cpp(30,8): warning C4101: “j”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+  opencvtest.vcxproj -> E:\vs\opencvtest\x64\Debug\opencvtest.exe
