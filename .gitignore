@@ -1,0 +1,3 @@
+# Visual Studio / C++ IDE precompiled headers and caches
+*.ipch
+.vs/
