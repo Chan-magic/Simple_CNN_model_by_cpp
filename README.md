@@ -1,6 +1,2 @@
 # Simple_CNN_model_by_cpp
-a class project
-
-You can add a new branch and modify the files in it.
-
-It is a whole new way which is highly-efficient.
+It should be noted that this implementation deviates from an Object-Oriented Programming (OOP) paradigm, favoring instead a process-oriented style characteristic of the C language. For an illustrative example of an OOP implementation, interested parties are directed to another project within my public repository, which includes a comprehensive introduction.
